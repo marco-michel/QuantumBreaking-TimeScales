@@ -2,7 +2,7 @@
 
 This code reproduces the data used in 
 
-M. Michel and S. Zell, *The Timescales of Quantum Breaking*, arXiv:
+M. Michel and S. Zell, *The Timescales of Quantum Breaking*, [arXiv::2306.09410](https://arxiv.org/abs/2306.09410)
 
 We refer to this paper for a detailed description. 
 
